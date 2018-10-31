@@ -1,3 +1,4 @@
+signing.key: 123243535
 example.organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE write by bibo"
 
 spring.datasource.platform:  "mysql"
