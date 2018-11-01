@@ -1,4 +1,3 @@
-signing.key: 123243535
 example.property: "I AM IN THE DEFAULT bibo"
 #spring.jpa.database: "bibo"
 spring.datasource.platform:  "mysql"
